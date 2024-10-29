@@ -1,0 +1,71 @@
+#produtos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.secao-produtos {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+.secao-produtos p {
+    font-size: 1.1rem;
+}
+
+.titulos {
+    margin-bottom: 25px;
+}
+
+.bolas-imgs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    margin: 50px 0px;
+}
+
+.card-bolas picture img {
+    width: 80%;
+    height: auto;
+    max-height: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card-bolas {
+    background-color: #f6f6f6;
+    padding: 20px 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-bolas h3 {
+    font-size: 2rem;
+}
+
+.card-bolas p {
+    font-size: 600;
+    font-size: 1.25rem;
+}
+
+.lista-produtos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    padding: 0px 20px;
+}
+
+.lista-produtos p{
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+}
+
+

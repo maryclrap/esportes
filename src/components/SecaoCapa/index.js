@@ -1,7 +1,7 @@
 import React from "react";
 import './style.css';
 
-const Header = () => {
+const SecaoCapa = () => {
     return(
         <section className= 'secao-capa'>
             <div className='capa center'>

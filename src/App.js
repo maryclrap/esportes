@@ -1,7 +1,8 @@
 import './App.css';
-import Header from './componentes/Header';
-import SecaoCapa from './componentes/SecaoCapa';
-import Produtos from './componentes/Produtos';
+import Header from './components/Header';
+import SecaoCapa from './components/SecaoCapa';
+import Produtos from './components/Produtos';
+import SecaoSobre from './components/Sobre';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header/>
       <SecaoCapa/>     
       <Produtos/>
+      <SecaoSobre/>
     </div>
   );
 }
