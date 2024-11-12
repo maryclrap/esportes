@@ -11,14 +11,12 @@ const SecaoSobre = () => {
                     com o objetivo de proporcionar ao cliente um bom atendimento, qualidade e 
                     preço baixo.
                 </p>
-            </div>
-
+        
             <div className= "elementos-sobre">
                 <picture>
                     <img src="./assets/loja.jpg" alt="Nossa loja"/>
                 </picture>
-            </div>
-
+          
 
             <div className= "texto-sobre primeiro-sobre">
                 <h4>NOSSAS FILIAIS</h4>
@@ -27,7 +25,7 @@ const SecaoSobre = () => {
                 </p>
             </div>
 
-            <div className= "texto-elementos">
+            <div className= "sobre-elementos">
                 <h4>ATENDIMENTO FLEXÍVEL</h4>
                 <p>
                     Nossa equipe é treinada para te atender da melhor forma possível.
@@ -38,6 +36,9 @@ const SecaoSobre = () => {
                 <img src="./assets/atendimento.jpg" alt="Atendimento"/>
             </picture>
             
+            </div>
+            </div>
+
         </section>
     )
 }

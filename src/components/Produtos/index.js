@@ -17,7 +17,7 @@ const Produtos = () => {
                 <div className="bolas-imgs">
                     <div className="card-bolas">
                         <h3>Bola de Vôlei</h3>
-                        <img src='./assets/volei.jpg' alt="Bola de vôlei" />
+                        <img src='./assets/volei.jpg' alt="Bola de vôlei"/>
                         <p>R$ 699,99</p>
                     </div>
                     <div className="card-bolas">

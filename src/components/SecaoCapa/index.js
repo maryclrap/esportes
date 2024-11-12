@@ -7,7 +7,7 @@ const SecaoCapa = () => {
             <div className='capa center'>
                 <div className='texto-capa'>
                     <p>Preços baixos em</p>
-                    <h1>Óculos de grau e de sol</h1>
+                    <h1>Bolas e artigos esportivos</h1>
                     <p>Você só encontra aqui</p>
                 </div>
             </div>
