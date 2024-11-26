@@ -6,6 +6,7 @@
 
 .sobre {
     text-align: center;
+    padding: 50px 0px;
 }
 
 .sobre h2 {
@@ -14,8 +15,8 @@
 }
 
 .sobre p {
-    font-size: 1.1rem;
-    margin-bottom: 50px;
+    font-size: 1rem;
+    margin-bottom: 25px;
 }
 
 .elementos-sobre {
@@ -34,7 +35,7 @@
 
 .sobre-elementos h4 {
   font-family: 'Anybody', cursive;
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 1.25;
 }
 
@@ -46,11 +47,13 @@
 }
 
 .texto-sobre {
-    display: flex;                
-    flex-direction: column;   
-    align-items: center;   
-    justify-content: center;   
-    text-align: center;         
-    padding: 20px;              
-    height: 100%;             
+  display: flex;                
+  flex-direction: column;   
+  align-items: center;   
+  justify-content: center;   
+  text-align: center;         
+  padding: 20px;              
+  height: 100%;             
 }
+
+

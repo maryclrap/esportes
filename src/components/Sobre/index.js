@@ -40,7 +40,11 @@ const SecaoSobre = () => {
             </div>
 
         </section>
+
+        
     )
+
+    
 }
 
 export default SecaoSobre;

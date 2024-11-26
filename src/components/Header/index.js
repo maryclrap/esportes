@@ -6,7 +6,7 @@ const Header = () => {
         <header>
             <div className='header center'>
                 <picture>
-                    <img src='./assets/logo2.jpg' alt='logo esportes' width= "250px"/>
+                    <img src='./assets/logo.png' alt='logo esportes' width= "250px"/>
                 </picture>
 
                 <nav>

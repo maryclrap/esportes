@@ -3,6 +3,7 @@ import Header from './components/Header';
 import SecaoCapa from './components/SecaoCapa';
 import Produtos from './components/Produtos';
 import SecaoSobre from './components/Sobre';
+import SecaoContato from './components/Contato';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <SecaoCapa/>     
       <Produtos/>
       <SecaoSobre/>
+      <SecaoContato/>
     </div>
   );
 }

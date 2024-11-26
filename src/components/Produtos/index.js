@@ -17,22 +17,22 @@ const Produtos = () => {
                 <div className="bolas-imgs">
                     <div className="card-bolas">
                         <h3>Bola de Vôlei</h3>
-                        <img src='./assets/volei.jpg' alt="Bola de vôlei"/>
+                        <img src='./assets/4.png' alt="Bola de vôlei"/>
                         <p>R$ 699,99</p>
                     </div>
                     <div className="card-bolas">
                         <h3>Bola de Basquete</h3>
-                        <img src="./assets/basquete.jfif" alt="Bola de basquete" />
+                        <img src="./assets/3.png" alt="Bola de basquete" />
                         <p>R$ 249,90</p>
                     </div>
                     <div className="card-bolas">
                         <h3>Bola de Futebol</h3>
-                        <img src="./assets/fut.jpg" alt="Bola de futebol" />
+                        <img src="./assets/2.png" alt="Bola de futebol" />
                         <p>R$ 499,99</p>
                     </div>
                     <div className="card-bolas">
                         <h3>Bola de Handebol</h3>
-                        <img src="./assets/hand.jpg" alt="Bola de handebol" />
+                        <img src="./assets/1.png" alt="Bola de handebol" />
                         <p>R$ 149,90</p>
                     </div>
                 </div>
